@@ -1,0 +1,5 @@
+./__pycache__/
+./build/
+./dist/
+./wrapup/__pycache__/
+./wrapup.egg-info/
